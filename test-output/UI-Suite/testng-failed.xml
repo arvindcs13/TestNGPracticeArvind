@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [UI-Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="UI_suite-Test(failed)">
+    <classes>
+      <class name="uid.Video4_AssertionsTestng">
+        <methods>
+          <include name="test_2"/>
+        </methods>
+      </class> <!-- uid.Video4_AssertionsTestng -->
+    </classes>
+  </test> <!-- UI_suite-Test(failed) -->
+</suite> <!-- Failed suite [UI-Suite] -->
